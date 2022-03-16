@@ -72,6 +72,11 @@ a {
     margin-right: 16px;
 }
 
+.meta img {
+    max-width: 48px;
+    padding-right: 10px;
+}
+
 .hero img {
     max-width: 100%;
 }
